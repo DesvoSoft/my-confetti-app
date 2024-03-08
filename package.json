@@ -1,8 +1,8 @@
 {
   "name": "my-react-app",
   "private": true,
-  "homepage": "https://DesvoSoft.github.io/my-confetti-app",
-  "version": "0.0.0",
+  "homepage": "https://desvosoft.github.io/my-confetti-app",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
