@@ -1,12 +1,12 @@
 import profilePic from './assets/images/ppmod.jpg'
-import jessPic from './assets/images/Jess.png'
+import Pic from './assets/images/PP.png'
 
 function Card() {
     return(
         <div className="card">
-            <img className="card-image" src={jessPic} alt="profile picture"></img>
-            <h2 className='card-title'>Jessie</h2>
-            <p className='card-text'>Feliz cumpleaños Jessie, que esta nueva etapa te traiga muchas aventuras y experiencias</p>
+            <img className="card-image" src={Pic} alt="profile picture"></img>
+            <h2 className='card-title'>Wan!</h2>
+            <p className='card-text'>XD</p>
         </div>
     );
 }
