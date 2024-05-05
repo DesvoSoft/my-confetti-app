@@ -4,7 +4,7 @@ import robloxUh from '../assets/sounds/taylor.mp3';
 
 export const runEmoji = () => {
     var scalar = 3;
-    var bear = confetti.shapeFromText({ text: '18', scalar }); //🐻1️⃣8️⃣
+    var bear = confetti.shapeFromText({ text: '🐻', scalar }); //🐻1️⃣8️⃣
     var wolf = confetti.shapeFromText({ text: '💚', scalar });
     var wan = confetti.shapeFromText({ text: '❤️', scalar });
     
